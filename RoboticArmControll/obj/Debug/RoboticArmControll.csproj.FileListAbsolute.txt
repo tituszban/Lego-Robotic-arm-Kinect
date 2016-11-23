@@ -1,0 +1,10 @@
+C:\Users\Bán T. Titusz\Robotika\RoboticArmControll\RoboticArmControll\bin\Debug\RoboticArmControll.exe.config
+C:\Users\Bán T. Titusz\Robotika\RoboticArmControll\RoboticArmControll\bin\Debug\RoboticArmControll.exe
+C:\Users\Bán T. Titusz\Robotika\RoboticArmControll\RoboticArmControll\bin\Debug\RoboticArmControll.pdb
+C:\Users\Bán T. Titusz\Robotika\RoboticArmControll\RoboticArmControll\bin\Debug\MonoBrick.dll
+C:\Users\Bán T. Titusz\Robotika\RoboticArmControll\RoboticArmControll\obj\Debug\RoboticArmControll.csprojResolveAssemblyReference.cache
+C:\Users\Bán T. Titusz\Robotika\RoboticArmControll\RoboticArmControll\obj\Debug\RoboticArmControll.exe
+C:\Users\Bán T. Titusz\Robotika\RoboticArmControll\RoboticArmControll\obj\Debug\RoboticArmControll.pdb
+H:\RoboticArmControll\RoboticArmControll\bin\Debug\RoboticArmControll.exe.config
+H:\RoboticArmControll\RoboticArmControll\obj\Debug\RoboticArmControll.exe
+H:\RoboticArmControll\RoboticArmControll\obj\Debug\RoboticArmControll.pdb
